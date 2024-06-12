@@ -1,5 +1,8 @@
 # Export Excel with Chart Image Examples
 
+This repo contains two quick examples of how to export Excel files contianing charts,
+one that works on the client-side with **VueJS** and one that works server-side from a **Python** script.
+
 ## Client-side: Vue with ExcelJS and ChartJS
 
 In `/vue_example` you will find a quick-and-dirty VueJS app that exports an Excel sheet containing a **static** ChartJS-generated image taken from the DOM.
